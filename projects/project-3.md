@@ -21,6 +21,8 @@ Due to my inner conflict, and a bit of sponetousity, I decided to leave Hawaii b
 
 <img class="ui medium left floated image" src="{{ site.baseurl }}/images/tech2.jpg">
 
-This new mindset helped me start seeing myself and my goals in a new light. I was able to tie into my search for ikigai with the passion I had for computer science, programming, and technology. While this pape reflected less on my personal thoughts, I was able to convey the message I had learned and observed while studying abroad. Alongside this paper, because I was studying abroad precisely at the time the pandemic began to grow, I worked on a more reflective piece about my experiences studying abroad during a pandemic as an international student.
+This new mindset helped me start seeing myself and my goals in a new light. I was able to tie into my search for ikigai with the passion I had for computer science, programming, and technology. I took note how several people were able to turn their passion into products, and I was able to observe in sites and events such as https://www.teamlab.art/ teamLab and https://kc-i.jp/tw/ Knowledge Capital.
+
+While this pape reflected less on my personal thoughts, I was able to convey the message I had learned and observed while studying abroad. Alongside this paper, because I was studying abroad precisely at the time the pandemic began to grow, I worked on a more reflective piece about my experiences studying abroad during a pandemic as an international student.
 
 Right now, I am working on getting the two papers published in different journals. With the help from my advisor, I hope to publish my COVID-19 reflection paper where international students who desire to study abroad can have a look at how the pandemic affected my studies and overall lifestyle in a foreign country. As for my Ikigai and Technology paper, after a few more trials of editing, there might be a shot at publishing it in the Honors journal at UH Manoa.
