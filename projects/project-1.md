@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Idea2.jpg
+image: images/Idea1.jpg
 title: Visual/Design Background
 permalink: projects/visual
 # All dates must be YYYY-MM-DD format!
@@ -13,18 +13,18 @@ summary: I worked on several design/visual projects while in high school, includ
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Idea2png">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/Idea2.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Throughout high school, I devoted a good portion of my time into creating, developing, and editing visual media. While I was in a technology track during my sophomore year of high school, the majority of my classmates were in a separate "traditional" track, and took journalism. As a way to contribute to my grade, and eventually, communicate and share information with other high school students, I started creating and editing weekly newsletters and distributing them through email and social network sites to high school students at my high school. In a short amount of the time, I was in charge of newsletters for middle school and high school students. Soon, the idea for a yearbook club was discussed, and unfortunately, although it wasn't able to get published, along with several other students, I worked hard to create dozens of pages filled with pictures, memories and words for the whole school from pre-school students to graduating seniors.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Outside of school, I was involved in creating visual promotions for my parents' store, such as fliers, videos, banners, and so forth. I started off lacking the necessary skills to take a photo that has correct lighting, or create an appealing look for fliers, but over the years, I began to feel more confident in the products I was creating, and felt that I had developed an eye for what I wanted something to look like. With a newly established mindset, I completed my practicum and a follow-up summer internship at the local community newspaper where I was a reporter, photographer, and journalist. It was the first time I was able to take the knowledge and skills I had developed into a new field.
 
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/Idea3.png">
+</div>
 
-
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Recently, a visual project I had contributed to was for a yearbook for international study abroad students that attended Konan University in Kobe, Japan for the academic year 2019-2020. Since I joined the program halfway in January 2020, several photos from events and of students were already taken, so I contributed in helping formatting information and creating chibi-like sketches of a couple of students for the yearbook. Art and design has been a part of my life since I was young, and I hope that it can continue with me as I venture through my computer science career options.
 
 
 
