@@ -49,23 +49,25 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "HTML",
+        "CSS",
         "Java",
+        "C/C++",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        ""
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows/WindowsOS",
+        "iOS",
+        "Microsoft Office",
+        "Eclipse IDE",
+        "LaTex",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Photoshop"
       ]
     }
   ],
