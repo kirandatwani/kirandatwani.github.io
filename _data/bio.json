@@ -79,6 +79,12 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "Discrete Mathematics",
+        "Chinese Language",
+        "Calculus I & II",
+        "Japanese Language",
+        "Honors Program",
+        "Algorithms"
       ]
     }
   ],
@@ -90,7 +96,7 @@
       "website": "https://asuhmanoa.wixsite.com/asuh",
       "startDate": "2019-05",
       "endDate": "2019-12",
-      "summary": "Representaive for the UH Manoa undergraduate student body",
+      "summary": "Representative for the UH Manoa undergraduate student body",
       "highlights": [
         "Member of Campus Life and Undergraduate Academic Affairs committees",
         "Represented ASUH at the ACUI Region I and IV in Reno, Nevada"
@@ -111,7 +117,7 @@
     {
       "company": "Sodexo Catering",
       "position": "Server/Preparer",
-      "website": "",
+      "website": "https://uhm.sodexomyway.com/catering",
       "startDate": "2018-10",
       "endDate": "2019-05",
       "summary": "Organized, Prepared and Served Dishes at UH Manoa events",
