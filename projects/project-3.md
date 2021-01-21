@@ -15,7 +15,7 @@ labels:
 summary: A year-long researh paper I worked on during my experience studying abroad during a pandemic and rekindling my love for technology and computer science.
 ---
 
-
+A little more than a year ago, I was 
 
 <img class="ui medium left floated image" src="{{ site.baseurl }}/images/tech2.jpg">
 
