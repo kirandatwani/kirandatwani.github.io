@@ -154,51 +154,51 @@
   ],
   "volunteer": [
     {
-      "organization": "YMCA Youth & Government",
-      "website": "https://www.ymcahonolulu.org/",
-      "position": "Student Mentor",
-      "startDate": "2016-01-01",
+      "organization": "Beta Beta Gamma Sorority",
+      "website": "https://www.instagram.com/bbg_uhm/?hl=en",
+      "position": "Sister",
+      "startDate": "2018-09",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Was a pledge, a neophyte, and finally, a sister",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Served as community service co-chair in Fall 2019",
+        "Have taken part in several fundraisers, volunteered in community service events, and worked on projects beneficial for the growth of the sorority"
+      ]
+    },
+    {
+      "organization": "International Student Association",
+      "website": "http://www.isauhm.com/",
+      "position": "Member and Co-Chair",
+      "startDate": "2018-08",
+      "endDate": "2019-12",
+      "summary": "General and Board Member",
+      "highlights": [
+        "Involved in the Community service committee during the Spring semester of 2019",
+        "Board member & Public Relations co-chair during the Fall semester of 2019",
+        "Organized events, meetings, and activities for international and local students in the club"
+      ]
+    },
+    {
+      "organization": "Parliamentary Debate World Conference and Competition (PDWC)",
+      "website": "https://www.pdwc.jp/pdwc-2020",
+      "position": "Student Ambassador",
+      "startDate": "2019-01",
+      "endDate": "2019-01",
+      "summary": "Team Leader, Time-keeper, and Social Media Photographer",
+      "highlights": [
+        "Leader of the student ambassadors during the debate contest",
+        "Made sure the program ran smoothly and according to plan, worked alongside the manager of the event"
       ]
     },
     {
       "organization": "YMCA Youth & Government",
       "website": "https://www.ymcahonolulu.org/",
       "position": "Student Mentor",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "startDate": "2018-09",
+      "endDate": "2019-01",
+      "summary": "Led and taught middle school and high school students about the US government",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "YMCA Youth & Government",
-      "website": "https://www.ymcahonolulu.org/",
-      "position": "Student Mentor",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "YMCA Youth & Government",
-      "website": "https://www.ymcahonolulu.org/",
-      "position": "Student Mentor",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Learned politics separately, and taught and mentored students"
       ]
     },
     {
