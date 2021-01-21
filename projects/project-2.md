@@ -1,25 +1,23 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/web2.jpg
+title: Web Development
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016-05-25
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Web Design
+  - HTML/CSS
+  - Project Management
+summary: I created a few websites when I was in high school through my technology track curriculum.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+One of the first hands-on project I coded in was a simple "blogsite" style <a href="file:///E:/Windows%207%20Data/Kiran/2015-2016/Tech_Track/Blogsite/gardening.html">website</a> using HTML and CSS. I received inspiration from a variety of fields, and created a simple project I was proud of. This was also the first time that I can remember that I started seeing code, and becoming impatient with constant errors because I missed a semicolon or a comma, or misspelled a word. I enjoyed writing, and for me, this was a completely different realm unlike no other field. With minimal mistakes, and possible grammatical errors, a paper can be passed as adequate, but when it comes to coding or programming, even simple things, everything must be in the right place, or the entire program will fail. I learned this the hard way when I was working on the early projects in the class.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+<img class="ui medium right floated rounded image" src="../images/web2.jpg">
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+I learned plentiful from working with team members on a combined project. We were all assigned our individual tasks.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+<a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
