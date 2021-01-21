@@ -8,7 +8,7 @@ permalink: projects/visual
 date: 2017-12-15
 labels:
   - Graphic Design
-  - Mirosoft Office
+  - Microsoft Office
 summary: I worked on several design/visual projects while in high school, including designing school newsletters, store banners, and interning at a community journal.
 ---
 
