@@ -215,16 +215,34 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "UH Mānoa International Merit Award Scholarship",
+      "date": "Fall 2018-Present",
+      "awarder": "University of Hawaiʻi at Mānoa Admissions Office",
+      "summary": "Scholarships awarded to incoming international freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.3."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Spring Forward Scholarship, Summer Scholarship",
+      "date": "Summer 2020, Spring 2021",
+      "awarder": "International Student Services",
+      "summary": "Scholarships awarded to international. continuing students with a minimum overall GPA of 3.0."
+    },
+    {
+      "title": "Spring Konan Scholarship",
+      "date": "Spring 2020",
+      "awarder": "Konan University",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0."
+    },
+    {
+      "title": "First Place Team",
+      "date": "Fall 2019",
+      "awarder": "ACUI Regionals I & IV",
+      "summary": "Student Case Study Contest in Reno, Nevada. Participated through ASUH."
+    },
+    {
+      "title": "Dean's List",
+      "date": "Spring 2019",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Students with a 3.5 GPA or above in a semester with no grade of F or W."
     }
   ],
   "references": [
