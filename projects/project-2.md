@@ -17,7 +17,4 @@ One of the first hands-on project I coded in was a simple "blogsite" style websi
 
 <img class="ui medium right floated rounded image" src="../images/Web1.jpg">
 
-I learned plentiful from working with team members on a combined project. We were all assigned our individual tasks.
-
- 
-<a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+While the majority of the projects were conducted individually, one of our final projects was a group effort collaboration. I learned plentiful from working with team members on a combined project. We were given freedom to create a website about one of the towns in Majuro, Marshall Islands in any way that we wanted. It was tricky at first because we were all new in this field, and had limited knowledge in aspects such as design, formatting and coding, but we picked a scope, and tried out best. I worked on the overall layout, and made sure the formatting was clear, and the structure was concise. It was one of the longest, and most challenging projects I had worked on in a group of people at that time, but it was this feeling of success everytime something worked that got me into computer science initially.
