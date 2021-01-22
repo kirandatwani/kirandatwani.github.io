@@ -21,7 +21,7 @@ Due to my inner conflict, and a bit of sponetousity, I decided to leave Hawaii b
 
 <img class="ui medium left floated image" src="{{ site.baseurl }}/images/tech2.jpg">
 
-This new mindset helped me start seeing myself and my goals in a new light. I was able to tie into my search for ikigai with the passion I had for computer science, programming, and technology. I took note how several people were able to turn their passion into products, and I was able to observe in sites and events such as https://www.teamlab.art/ teamLab and https://kc-i.jp/tw/ Knowledge Capital.
+This new mindset helped me start seeing myself and my goals in a new light. I was able to tie into my search for ikigai with the passion I had for computer science, programming, and technology. I took note how several people were able to turn their passion into products, and I was able to observe in events and sites such as <a href="https://www.teamlab.art/">teamLab</a> and <a href="https://kc-i.jp/tw/">Knowledge Capital</a>.
 
 While this pape reflected less on my personal thoughts, I was able to convey the message I had learned and observed while studying abroad. Alongside this paper, because I was studying abroad precisely at the time the pandemic began to grow, I worked on a more reflective piece about my experiences studying abroad during a pandemic as an international student.
 
