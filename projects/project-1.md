@@ -9,10 +9,11 @@ date: 2018-07-15
 labels:
   - Graphic Design
   - Microsoft Office
+  - Initiative
 summary: I worked on several design/visual projects while in high school, including designing school newsletters, store banners, and interning at a community journal.
 ---
 
-Throughout high school, I devoted a good portion of my time into creating, developing, and editing visual media. While I was in a technology track during my sophomore year of high school, the majority of my classmates were in a separate "traditional" track, and took journalism. As a way to contribute to my grade, and eventually, communicate and share information with other high school students, I started creating and editing weekly newsletters and distributing them through email and social network sites to high school students at my high school. In a short amount of the time, I was in charge of newsletters for middle school and high school students. Soon, the idea for a yearbook club was discussed, and unfortunately, although it wasn't able to get published, along with several other students, I worked hard to create dozens of pages filled with pictures, memories and words for the whole school from pre-school students to graduating seniors.
+Throughout high school, I devoted a good portion of my time into creating, developing, and editing visual media. While I was in a technology track during my sophomore year of high school, the majority of my classmates were in a separate "traditional" track, and took journalism. As a way to contribute to my grade, and eventually, communicate and share information with other high school students, I started creating and editing weekly newsletters and distributing them through email and social network sites to high school students at my high school. In a short amount of the time, I was in charge of newsletters for middle school and high school students. Soon, the idea for a yearbook club was discussed, and unfortunately, although it wasn't able to get published, along with several other students, I worked hard to create dozens of pages filled with pictures, memories and words for the whole school from preschool students to graduating seniors.
 
   <img class="ui image2" src="../images/Idea3.JPG">
 
