@@ -79,12 +79,21 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "Discrete Mathematics",
-        "Chinese Language",
-        "Calculus I & II",
-        "Japanese Language",
         "Honors Program",
-        "Algorithms"
+        "ICS 311: Algorithms"
+      ]
+    };
+    {
+      "institution": "Konan University, Kobe, Japan",
+      "area": "Japanese Language",
+      "studyType": "",
+      "startDate": "January 2020",
+      "endDate": "May 2020",
+      "gpa": "",
+      "courses": [
+        "Japanese Language Partner Program",
+        "Japanese Language & Linguistics",
+        "Yearbook Committee"
       ]
     }
   ],
