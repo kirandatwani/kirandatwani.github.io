@@ -3,14 +3,14 @@ layout: project
 type: project
 image: images/web2.jpg
 title: Web Development
-permalink: projects/vacay
+permalink: projects/web
 # All dates must be YYYY-MM-DD format!
 date: 2016-05-25
 labels:
   - Web Design
   - HTML/CSS
   - Project Management
-summary: I created a few websites when I was in high school during my technology track curriculum. It was my first experience with programming, and gave me an outlook on the computer science field.
+summary: I created a few websites when I was in high school during my technology track curriculum. It was my first experience with programming, and introduced me to computer science.
 ---
 
 One of the first hands-on projects I coded was a simple "blog site" style website using HTML and CSS. I received inspiration from a variety of fields, and created a simple project I was proud of. This was also the first time that I can remember that I started seeing code, and becoming impatient with constant errors because I missed a semicolon or a comma, or misspelled a word. I enjoyed writing, and for me, this was a completely different realm unlike no other field. With minimal mistakes, and possible grammatical errors, a paper can be passed as adequate, but when it comes to coding or programming, even simple things, everything must be in the right place, or the entire program will fail. I learned this the hard way when I was working on the early projects in the class.
