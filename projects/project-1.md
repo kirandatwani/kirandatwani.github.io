@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Idea1.jpg
-title: Visual & Design Background
+title: Visual/Design Background
 permalink: projects/visual
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-15
