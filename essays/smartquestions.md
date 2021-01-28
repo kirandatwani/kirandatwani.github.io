@@ -14,7 +14,7 @@ Personally, ever since I started learning computer science at the University of 
 
 ## Skills + Experience = Career
 
-<img class="ui large center image" src="../images/smart2.jpg">
+<img class="ui medium left floated image" src="../images/smart2.jpg">
 
 One of the major skills I wish to develop is quicker, more efficient problem-solving skills. This applies to fields outside of computer science too, but solving each problem or portion of code requires a strong skill set of being able to see a problem, and take the necessary steps or actions to solve it. Another skill that I have been working on in the past years is effective team collaboration. I initially would joke and believe that computer scientists would not be working with other people, and only be staring at their screens for huge amounts of time. I learned quickly that that is far from the truth, and it is not only important, but essential for aspiring students wanting to pursue a career in software engineering, and so forth. I believe that with experience from this class, I shall be able to develop myself in both aspects that will ultimately help me for my future career. (Image retrieved  <a href="https://www.brightermonday.co.ug/blog/questions-for-interviewer/">here</a>.)
 
