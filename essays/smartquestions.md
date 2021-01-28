@@ -16,28 +16,16 @@ What exactly does it mean to ask "smart" questions? To one person, it could be a
 
 <img class="ui medium left floated image" src="../images/smart2.jpg">
 
-(Image retrieved <a href="https://www.brightermonday.co.ug/blog/questions-for-interviewer/">here</a>.)
+<a href="https://stackoverflow.com/">Stack Overflow</a>, a site used by developers, programmers, and students is home to thousands upon thousands of questions and answers. Many questions are asked and answers given on a daily basis; while some are asked in the smart way, others are not.
 
-In addition, the answers provided by the community should demonstrate that asking a question the smart way leads to both efficient and effective help.
-
+A question asked in a <a href="https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it">"smart way"</a> is by this programmer who offeres a precise and straight-forward question that received a good amount of feedback and answers from the community. This person asked a question the smart way, which allowed the person to receive a few hundred upvotes along with a variety of answers. The main part of this question which deemed it as a smart question was that after a decade, the question received efficient and effective help from programmers and the community. This question was interesting enough for programmers to answer them, along with supplemented others users were just starting on the basics. (Image retrieved <a href="https://www.brightermonday.co.ug/blog/questions-for-interviewer/">here</a>.)
 
 ```
-A: datetime and the datetime.timedelta classes are your friend.
+Q: What is a NullPointerException, and how do I fix it?
 
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
+What are Null Pointer Exceptions (java.lang.NullPointerException) and what causes them?
 
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
+What methods/tools can be used to determine the cause so that you stop the exception from causing the program to terminate prematurely?
 
 ```
 
