@@ -8,9 +8,11 @@ labels:
   - Smart Questions
 ---
 
-<img class="ui medium right floated image" src="../images/code1.jpg">
+<img class="ui medium right floated image" src="../images/smart1.jpg">
 
 Personally, ever since I started learning computer science at the University of Hawaiʻi at Mānoa, I was always drawn to and was interested in taking this class. As a new student, most people I was acquantatined and befriended were interested in game development and design or cybersecurity. My interests lied more in the fields of web development and design, and I was eagerly waiting for a chance to learn more about how to create high quality websites, and work on design aspects, and product management. Much like any other field, software engineering encompasses several fields, such as web development, app development and so forth. My interests in software engineering include web development and/or design, and potentially app development, since there might be overall similarities between the two.
+
+<img class="ui large middle image" src="../images/smart2.jpg">
 
 ## Skills + Experience = Career
 
