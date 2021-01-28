@@ -29,7 +29,6 @@ What methods/tools can be used to determine the cause so that you stop the excep
 
 ```
 
-
 ## Asking a Question: The Wrong Way
 
 On the other hand, a person who asked a question in the <a href="https://stackoverflow.com/questions/65934719/how-do-you-do-a-chain-of-if-statements-in-c">"not smart way"</a>, proceeded exactly the way the author Raymond wrote not to. Although this question was decent, and clear, it could have been worded better. The main issue was not the question in itself, but the way this person approached it. A lengthy piece of code with no explantion of the error was given, and a question asking for the answers goes against precisely with what Raymond spoke about. This person was not willing to work on finding the issues caused, but rather requesting for the solution to his code, which also diverged from his original question. The question asked "how something was done" rather than "what is wrong with my code?" The question, a snippet of the code, and a follow-up question is included: 
@@ -57,7 +56,6 @@ This is my code so far but it won't work. What should I do to make it work?
 Not only did this person receive four downvotes in two hours, and have the question closed after 90-100 minutes, but the people answering the question weren't in agreement either, leading to nearly all answers associated with this question having downvotes too. The writer of the question was fortuante that the people weren't too harsh or sarcastic, and continued to answer and help the best they could. This affected the audience who possibly had the same questions, but were eventually confused by the original person who asked the questions, and the confusing, ineffective and inefficient answers that were given. Some comments on ineffective answers included:
 
 ```
-
 C: Whoever downvoted should explain what is wrong... – Gerhardh
 
 C: If you switch the order of your conditions, you can avoid needing to check for an upper boundary. Start with highest value and continue towards lower. – Gerhardh
