@@ -21,7 +21,7 @@ So far, I think I am enjoying the programming language because of the way the cl
 ## Running a Marathon
 
 *"Speed does not mean sloppy, it means fluency"*
-- Philip Johnson on 'Athletic Software Engineering' (*Link to article can be found* <a href="https://philipmjohnson.org/essays/athletic-software-engineering.html">*here*</a>.)
+-Philip Johnson on 'Athletic Software Engineering' (*Link to article can be found* <a href="https://philipmjohnson.org/essays/athletic-software-engineering.html">*here*</a>.)
 
 While reading about athletic software engineering, this quote caught my attention. I always felt intimidated by people who were able to program complex code in a few hours while I would get stuck on a single line for any amount of time. Time was always against me when I had tight deadlines and overlapping projects, and I believe many students agree. Whenever I was rushing to meet a time on a clock, I felt like I was running in a marathon, but with someone timing me. In a marathon, there are usually at least two types of runners: there are the sprinters and then there are the ones that go slow and steady. I believe the same can be said about programmers in a sense. When I am working on a WOD, I feel the same sense of rush, and personally for me, it's challenging because I take time completing projects well, but for others, the sheer adrenaline rush is their motivation for them to write well.
 
