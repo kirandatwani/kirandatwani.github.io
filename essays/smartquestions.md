@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions, Great Answers
+title: Asking Smart Questions for Great Answers
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-27
 labels:
@@ -10,15 +10,31 @@ labels:
 
 <img class="ui medium right floated image" src="../images/smart1.jpg">
 
-Personally, ever since I started learning computer science at the University of Hawaiʻi at Mānoa, I was always drawn to and was interested in taking this class. As a new student, most people I was acquantatined and befriended were interested in game development and design or cybersecurity. My interests lied more in the fields of web development and design, and I was eagerly waiting for a chance to learn more about how to create high quality websites, and work on design aspects, and product management. Much like any other field, software engineering encompasses several fields, such as web development, app development and so forth. My interests in software engineering include web development and/or design, and potentially app development, since there might be overall similarities between the two. (Image retrieved  <a href="https://telebid-pro.com/how-to-ask-questions-the-smart-way/">here</a>.)
+What exactly does it mean to ask "smart" questions? To one person, it could be a question that has a thought-provoking, open-ended answer, and to another, it might be a question that many other people were curious about, but weren't sure how to ask. Since we are young, we are told to always ask questions: to your teacher, professors, potential employers, and the list goes on. At a young age, we are told that there are no "stupid" questions, but in any field, there is a right way and a wrong way to ask a question. Smart questions are questions that are precise, intriguing and to-the-point. Most importantly, the audience, such as an experienced programmer or hacker, should not feel like they wasted their valuable time answering a question a person didn't put effort in asking. The person asking questions without much thought isn't well-respected or regarded by any community, and usually left unanswered or with sarcasm. As written by Eric Steven Raymond, *"it's simply not efficient for us to try to help people who are not willing to help themselves. It's OK to be ignorant; it's not OK to play stupid"*.
 
-## Skills + Experience = Career
+(Image retrieved <a href="https://telebid-pro.com/how-to-ask-questions-the-smart-way/">here</a>.)
+
+## Asking a Question: The Right Way
 
 <img class="ui medium left floated image" src="../images/smart2.jpg">
 
-One of the major skills I wish to develop is quicker, more efficient problem-solving skills. This applies to fields outside of computer science too, but solving each problem or portion of code requires a strong skill set of being able to see a problem, and take the necessary steps or actions to solve it. Another skill that I have been working on in the past years is effective team collaboration. I initially would joke and believe that computer scientists would not be working with other people, and only be staring at their screens for huge amounts of time. I learned quickly that that is far from the truth, and it is not only important, but essential for aspiring students wanting to pursue a career in software engineering, and so forth. I believe that with experience from this class, I shall be able to develop myself in both aspects that will ultimately help me for my future career. (Image retrieved  <a href="https://www.brightermonday.co.ug/blog/questions-for-interviewer/">here</a>.)
+(Image retrieved <a href="https://www.brightermonday.co.ug/blog/questions-for-interviewer/">here</a>.)
+
+In addition, the answers provided by the community should demonstrate that asking a question the smart way leads to both efficient and effective help.
 
 
-## Conclusion
+Be sure that your essay includes a textual summary of both the “smart” and “not so smart” questions, as well as a link to the StackOverFlow pages where they are located. Don’t just put the URL to the questions and force the reader to visit StackOverFlow to read the question there, then s
 
-During one of Professor Johnson's videos, students were inspired to create projects and writings not for a grade, but to be shared with the world. As someone who has thought more about what I can contribute to the world rather than what I can do for myself, it made me think differently. First, and foremost, most of what I had worked on or created in the past was something I wanted to show or share with someone, or a group of people, or a community. I rarely ever worked on something just for myself, and now that I think about it, I guess I felt stronger on what others said and critiqued about my work rather than what I felt about it. This is where I think it's important to know where to draw a line on what you do for others and what you do for yourself. I believe I am not the only person who has done this, or thinks like this, as it is human nature for people to feel validated by other people rather than being able to validate yourself for your own achievements. This is something I have been working on since I started college. I want to feel proud of what I have done, and how I perceived something rather than relying on others for approval.
+## Asking a Question: The Wrong Way
+
+Next, you will search for a question submitted by a different developer that demonstrates the “not smart way”. In other words, this question violates the principles established by Raymond. In addition, the answers provided by the community should demonstrate that asking a question in a “not smart” way does not lead to both effective and efficient help
+
+
+## Final Thoughts
+
+The goal of this exercise is not to “prove” that asking questions the smart way is always better. Instead, the goal of this exercise is to help you form a deeper understanding of what constitutes “smart” and “not smart” questions so that you are more likely to ask smart ones in the future.
+
+Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
+
+
+time of others -- how important it is -- making others feel less important
