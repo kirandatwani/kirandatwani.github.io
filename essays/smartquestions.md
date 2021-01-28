@@ -12,9 +12,9 @@ labels:
 
 Personally, ever since I started learning computer science at the University of Hawaiʻi at Mānoa, I was always drawn to and was interested in taking this class. As a new student, most people I was acquantatined and befriended were interested in game development and design or cybersecurity. My interests lied more in the fields of web development and design, and I was eagerly waiting for a chance to learn more about how to create high quality websites, and work on design aspects, and product management. Much like any other field, software engineering encompasses several fields, such as web development, app development and so forth. My interests in software engineering include web development and/or design, and potentially app development, since there might be overall similarities between the two. (Image retrieved  <a href="https://telebid-pro.com/how-to-ask-questions-the-smart-way/">here</a>.)
 
-<img class="ui large middle image" src="../images/smart2.jpg">
-
 ## Skills + Experience = Career
+
+<img class="ui large center image" src="../images/smart2.jpg">
 
 One of the major skills I wish to develop is quicker, more efficient problem-solving skills. This applies to fields outside of computer science too, but solving each problem or portion of code requires a strong skill set of being able to see a problem, and take the necessary steps or actions to solve it. Another skill that I have been working on in the past years is effective team collaboration. I initially would joke and believe that computer scientists would not be working with other people, and only be staring at their screens for huge amounts of time. I learned quickly that that is far from the truth, and it is not only important, but essential for aspiring students wanting to pursue a career in software engineering, and so forth. I believe that with experience from this class, I shall be able to develop myself in both aspects that will ultimately help me for my future career. (Image retrieved  <a href="https://www.brightermonday.co.ug/blog/questions-for-interviewer/">here</a>.)
 
