@@ -87,12 +87,6 @@ C: Although the OP did not express themselves clearly, I believe it is the inten
     
 ```
 
-
 ## Final Thoughts
 
-The goal of this exercise is not to “prove” that asking questions the smart way is always better. Instead, the goal of this exercise is to help you form a deeper understanding of what constitutes “smart” and “not smart” questions so that you are more likely to ask smart ones in the future.
-
-Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
-
-
-time of others -- how important it is -- making others feel less important
+In truthfulness, for a beginner, it is not always black and white what is considered a smart question and what is not. In order to expand one's knowledge, it's important to have deep understanding of "smart questions" by observing the ones in community sites, and attempting to ask questions as well. I realized that asking smart, effective questions are crucial to software engineers, and the art of knowing how to communicate properly is a skill in itself. Insights I have gained in this experience include how I should give more thought into questions I want to ask, as well as attempting to understand the difference between how to ask a smart question, and one that is not. A final sidenote is that when attempting to ask smart questions, it is important to remember that time is very valuable for people, and the community in Stack Overflow is not obligated to help the ones who they feel are wasting their time asking questions in a "not smart" manner. There have been instances where I have written up a question to ask someone, but while reviewing my question, I was able to find the solution to my problem on my own. This is why it's important to check and check again before requesting for help. 
