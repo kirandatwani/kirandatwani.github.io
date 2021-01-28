@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/tech1.jpg
-title: Ikigai, Technology & COVID-19
+title: Ikigai, Tech & COVID-19
 permalink: projects/technology
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-30
