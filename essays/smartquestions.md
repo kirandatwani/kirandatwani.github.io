@@ -32,7 +32,7 @@ What methods/tools can be used to determine the cause so that you stop the excep
 
 ## Asking a Question: The Wrong Way
 
-On the other hand, a person who asked a question in the <a href="https://stackoverflow.com/questions/65934719/how-do-you-do-a-chain-of-if-statements-in-c">"not smart way"</a>, proceeded exactly the way the author Raymond wrote not to. Although this question was decent, and clear, it could have been worded better. The main issue was not the question in itself, but the way this person approached it. A lengthy piece of code with no explantion of the error was given, and a question asking for the answers goes against precisely with what Raymond spoke about. This person was not willing to work on finding the issues caused, but rather requesting for the solution to his code, which also diverged from his original question. The question asked "how something was done" rather than "what is wrong with my code?"
+On the other hand, a person who asked a question in the <a href="https://stackoverflow.com/questions/65934719/how-do-you-do-a-chain-of-if-statements-in-c">"not smart way"</a>, proceeded exactly the way the author Raymond wrote not to. Although this question was decent, and clear, it could have been worded better. The main issue was not the question in itself, but the way this person approached it. A lengthy piece of code with no explantion of the error was given, and a question asking for the answers goes against precisely with what Raymond spoke about. This person was not willing to work on finding the issues caused, but rather requesting for the solution to his code, which also diverged from his original question. The question asked "how something was done" rather than "what is wrong with my code?" The question, a snippet of the code, and a follow-up question is included: 
 
 ```
 Q: How do you do a chain of if statements in C? [closed]
@@ -42,29 +42,8 @@ Q: How do you do a chain of if statements in C? [closed]
     getch();
     goto Sol;
 
-    if (grade >= 90) {
-        printf("\nWITH HONORS");
-        getch();
-        goto Sol;
-
-        if (grade >= 95) {
-            printf("\nWITH HIGH HONORS");
-            getch();
-            goto Sol;
-
-            if (grade >= 98) {
-                printf("\nWITH HIGHEST HONORS");
-                getch();
-                goto Sol;
-
-                if (grade >= 101) {
-                    printf("INVALID");
-                    getch();
-                    goto Sol;
-                }
-            }
-        }
-    }
+        ........
+    
     else {
         printf("FAILURE");
         getch();
