@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/tech1.jpg
-title: Ikigai, Tech & COVID-19
+title: Ikigai, Technology & COVID-19
 permalink: projects/technology
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-30
@@ -12,7 +12,7 @@ labels:
   - Ikigai/Passion
   - Technology
   - COVID-19
-summary: A year-long research paper I worked on during my experience studying abroad during a pandemic and rekindling my love for technology and computer science.
+summary: A year-long research paper I worked on during my experience studying abroad during a pandemic.
 ---
 
 ## How It Started
