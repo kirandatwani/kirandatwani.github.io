@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Software Engineering, Me & the World
+title: Smart Questions, Great Answers
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-27
 labels:
-  - Software Engineering
+  - Smart Questions
 ---
 
 <img class="ui medium right floated image" src="../images/code1.jpg">
