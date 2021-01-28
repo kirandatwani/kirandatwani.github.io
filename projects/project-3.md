@@ -12,7 +12,7 @@ labels:
   - Ikigai/Passion
   - Technology
   - COVID-19
-summary: A year-long research paper I worked on during my experience studying abroad during a pandemic.
+summary: A year-long research paper I worked on about ikigai and technology during my experience studying abroad during a pandemic.
 ---
 
 ## How It Started
