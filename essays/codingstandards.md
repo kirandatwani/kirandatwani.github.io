@@ -12,6 +12,8 @@ labels:
 
 ## Standards in Code & Life
 
+<img class="ui medium right floated image" src="../images/smart1.jpg">
+
 I remember reading somewhere that it takes half a year in order to learn a new programming language. While I was surprised by this, it also made reasonable sense. I was surprised because generally in order to master any kind of skill to professional level would take as quoted by the popular author, Malcolm Gladwell, in his infamous book, the Outliers -- *** 10,000 hours *** ! If a person worked for 40 hours a week for 52 weeks, they would have approximately worked about 2,000 hours, which means it would take them 5 years to become a master! Of course, it depends,
 
 
