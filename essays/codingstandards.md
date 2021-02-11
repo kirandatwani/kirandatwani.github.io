@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Setting & Having Standards
+title: Having Standards
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-11
 labels:
