@@ -12,7 +12,7 @@ labels:
 
 ## Start of my Coding Journey
 
-<img class="ui medium left floated image" src="../images/stand.jpg">
+<img class="ui medium right floated image" src="../images/stand.jpg">
 
 When I first started programming in college, my code was all over the place, and I didn't realize there was anything wrong until someone pointed it out, and helped me clean my code. I was surprised and intrigued because it was the first time someone had mentioned "coding standards", and before then, I was completely oblivious to it. If I were being honest, at that time, I didn't see the difference between my previous, messy code, and the new and improved, "cleaner" code. There were a few indents, and the close-curly-braces were adjusted to their proper lines, but to me, it looked pretty much the same. As someone who pays more attention to the small details rather than the big picture, I find it alarming how I wasn't able to nitpick on those tiny violations and errors when I first started. It is truly a skill to be able to write beautiful code, but sometimes without a proper background and understanding, that is much easier said than done. (Image retrieved <a href="https://businessanalystcoach.blog/2017/12/08/business-analysis-and-requirements-engineering-standards-for-information-technology-projects-an-overview/">here</a>.)
 
