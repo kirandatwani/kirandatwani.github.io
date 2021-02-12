@@ -20,7 +20,7 @@ When I first started programming in college, my code was all over the place, and
 
 In a way, coding standards can be trivial, and complex at the same time. I believe it depends highly on the experience of a programmer. For instance, a novice programmer might be focused on formatting, and aligning certain functions and braces, while a senior programmer might be more concerned about writing efficient, simple, easy-to-understand code in as few lines as possible. Regardless of the position of the programmer, I do think that coding standards improve the quality in writing code, but also being able to read and understand it. For new programmers, it is crucial to be able to read and understand code, especially one's own code. In this perspective, coding standards are very useful, because what the human eye misses, ESLint or another tool would be able to quickly detect. In the short-term process, it might be irritable to constantly be given error warnings, but in a way, it helps to understand the problem for the error more efficiently, and in the long-term, assists the programmer in writing cleaner code.
 
-## New language, new standards
+## New Language, New Standards
 
 I remember there being coding standards given by Professors in previous ICS classes, but the IDEs that were being used, such as Eclipse and the terminal, didn't consist of tools that would assist in telling me that I am heading in the wrong direction or if my code was messy. It was something I had to check and confirm myself. Having ESLint with IntelliJ checking and picking on each error is sometimes frustrating, but more than that, it is useful and much needed. I feel the same satisfaction seeing the green checkmark as I do when I complete a task or assignment for the day.
 
