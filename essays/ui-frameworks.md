@@ -18,7 +18,7 @@ Feel free to go in another direction entirely, as long as you are discussing UI 
 
 ## Semantics as the unknown "magic"
 
-<img class="ui medium right floated image" src="../images/code2.jpg">
+<img class="ui medium right floated image" src="../images/design.png">
 
 *"Design can be art. Design can be aesthetics. Design is so simple, that's why it is so compliacted."*
 - Paul Rand
