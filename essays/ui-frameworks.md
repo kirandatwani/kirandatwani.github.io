@@ -21,7 +21,7 @@ Feel free to go in another direction entirely, as long as you are discussing UI 
 <img class="ui medium right floated image" src="../images/design.png">
 
 *"Design can be art. Design can be aesthetics. Design is so simple, that's why it is so compliacted."*
-- Paul Rand
+--- Paul Rand
 
 
 (Image retrieved <a href="https://miro.medium.com/max/4186/1*33khN9zpFCMWnF8pLqeVTQ.png">here</a>.)
