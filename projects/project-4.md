@@ -8,9 +8,8 @@ permalink: projects/hci
 date: 2021-05-10
 labels:
   - Research
-  - Formal Writing
   - Human-Computer Interaction
-  - Computational Thinking
+  - Formal Writing
   - Honors Senior Project
 summary: A year-long research paper I worked on about ikigai and technology during my experience studying abroad during a pandemic.
 ---
