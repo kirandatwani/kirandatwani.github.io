@@ -54,8 +54,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "HTML",
-        "CSS",
+        "HTML/CSS",
         "Java",
         "C/C++",
         "Javascript"
@@ -86,12 +85,23 @@
       "courses": [
         "Honors Program",
         "Study Abroad Program in Kobe, Japan (Spring 2020)",
-        "ICS 311: Algorithms"
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering I
       ]
     }
   ],
   "work": [
-   
+       {
+      "company": "UH Mānoa Office of Student Affairs",
+      "position": "New Rainbow Warrior Orientation Leader",
+      "website": "https://manoa.hawaii.edu/welinamanoa/new-student-orientation/",
+      "startDate": "2021-07",
+      "endDate": "Present",
+      "highlights": [
+        "Member of Campus Life and Undergraduate Academic Affairs committees",
+        "Represented ASUH at the ACUI Region I and IV in Reno, Nevada"
+      ]
+    },
     {
       "company": "Associated Students of the University of Hawaiʻi at Mānoa",
       "position": "Senator of the Colleges of Arts and Sciences",
@@ -172,11 +182,12 @@
       "website": "http://www.isauhm.com/",
       "position": "Member and Co-Chair",
       "startDate": "2018-08",
-      "endDate": "2019-12",
+      "endDate": "Present",
       "summary": "General and Board Member",
       "highlights": [
         "Involved in the Community service committee during the Spring semester of 2019",
         "Board member & Public Relations co-chair during the Fall semester of 2019",
+        "Involved in the Language Exchange and Banquet committees during the Spring semester of 2021",
         "Organized events, meetings, and activities for international and local students in the club"
       ]
     },
