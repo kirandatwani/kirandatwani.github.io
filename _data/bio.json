@@ -86,12 +86,23 @@
         "Honors Program",
         "Study Abroad Program in Kobe, Japan (Spring 2020)",
         "ICS 311: Algorithms",
-        "ICS 314: Software Engineering I"
+        "ICS 314: Software Engineering I",
+        "ICS 390: Computing Ethics for Lab Assistants (Fall 2021)"
       ]
     }
   ],
   "work": [
-       {
+    {
+      "company": "UH Mānoa ICS Department",
+      "position": "Assisting Teaching Assistant for Computer Science",
+      "website": "https://www.ics.hawaii.edu/",
+      "startDate": "2021-08",
+      "endDate": "Present",
+      "highlights": [
+        "Will start in the Fall 2021 semester"
+      ]
+    },
+    {
       "company": "UH Mānoa Office of Student Affairs",
       "position": "New Rainbow Warrior Orientation Leader",
       "website": "https://manoa.hawaii.edu/welinamanoa/new-student-orientation/",
