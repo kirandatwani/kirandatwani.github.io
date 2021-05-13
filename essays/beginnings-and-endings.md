@@ -11,10 +11,9 @@ labels:
   - Ethics in Software Engineering
 ---
 
-As yet another semester wraps up with finals, sleep deprivation, and a long-awaited summer break, I can say that my hopes in the field of computer science has risen.
+As yet another semester wraps up with finals, sleep deprivation, and a long-awaited summer break, another level of a aspiring programmer's journey is achieved. Although a few months is a very short amount of time, during these last few months I have built a strong foundation and understanding of several software engineering principles. I was able to learn concepts such as open-source development, agile project managment, and ethics in software engineering, along with expanding on skills such as project planning, organizing team-oriented goals, and time management.
 
-
-## Flow
+## Flow in Psychology
 
 In psychology, there is a term for a "flow" state of being, which is also known informally as "being in the zone". In this state, a person is completely immersed in an activity with full focus, involvement, and enjoyment; it is when a person's challenge level and skill level meet at high percentages. In contrast, when a person experiences low percentages in both their challenge level and skill level, they are in a mental state of "apathy". When starting with different classes in computer science, I would always be in a "control" mental state, but soon I fell towards more of the "anxiety" and "worry" mentality. When catching a glimpse of software engineering, I realized I was at a "flow" state of being. The topics were challenging, but I felt with every week, I was steadily becoming more and more skilled, and enjoying it more, too.
 
