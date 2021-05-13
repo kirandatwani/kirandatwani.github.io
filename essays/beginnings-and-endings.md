@@ -25,8 +25,6 @@ Patterns
 
 ### Agile Project Management
 
-Getting into project management
-
 In a marathon, there are different kinds of people, but for the sake of simplicity, two kinds of people are the sprinters and endurance runners. In the grand scheme of things, most people would be endurance runners with high stamina and mental strength not only in a marathon setting, but also in their personal and professional life. However, at least basing off most people I know (which would be my fellow college peers), most people are sprinters in their daily life. One project given a month in advance (so that the student can work on it for a month easily) becomes a rushed assignment in a matter of days with a few all-nighters. Most of this is based upon how difficult it is to divide a large task into smaller ones, and being able to estimate how long each task should take.
 
 This is where Agile Project Managment comes in, where a large task is divided up into smaller manageable tasks assigned to be completed in a given amount of time. This is extremely beneficial for large projects that seemingly appear impossible to start on or finish. An style of Agile Project Management is Issue Driven Project Management, or IDPM for short. In IDPM, a project is divided up into manageable issues with tasks that can be divided into 72-hour increments, a few milestones so the application progresses, each member contributing to a couple of issues, and subsequent meeting times to keep everyone working on the project on the same page.
