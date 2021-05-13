@@ -11,17 +11,13 @@ labels:
   - Ethics in Software Engineering
 ---
 
-As yet another semester wraps up with finals, sleep deprivation, and a long-awaited summer break, another level of a aspiring programmer's journey is achieved. Although a few months is a very short amount of time, during these last few months I have built a strong foundation and understanding of several software engineering principles. I was able to learn concepts such as open-source development, agile project managment, and ethics in software engineering, along with expanding on skills such as project planning, organizing team-oriented goals, and time management.
+As yet another semester wraps up with finals, sleep deprivation, and a long-awaited summer break, another level of a aspiring programmer's journey is achieved. Although a few months is a very short amount of time, during these last few months I have built a strong foundation and understanding of several software engineering principles. I was able to learn concepts such as agile project managment and ethics in software engineering, along with expanding on skills such as project planning, organizing team-oriented goals, and time management.
 
 ## Flow in Psychology
 
 <img class="ui medium right floated image" src="../images/flow.png">
 
 In psychology, there is a term for a "flow" state of being, which is also known informally as "being in the zone". In this state, a person is completely immersed in an activity with full focus, involvement, and enjoyment; it is when a person's challenge level and skill level meet at high percentages. In contrast, when a person experiences low percentages in both their challenge level and skill level, they are in a mental state of "apathy". When starting with different classes in computer science, I would always be in a "control" mental state, but soon I fell towards more of the "anxiety" and "worry" mentality. When catching a glimpse of software engineering, I realized I was at a "flow" state of being. The topics were challenging, but I felt with every week, I was steadily becoming more and more skilled, and enjoying it more, too. (Image retrieved <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Challenge_vs_skill.svg/300px-Challenge_vs_skill.svg.png">here</a>.)
-
-### Open-Source Software Development
-
-Patterns
 
 ### Agile Project Management
 
@@ -33,7 +29,9 @@ Agile Project Management has been invaluable in the sense that it has helped me 
 
 ### Ethics in Software Engineering
 
-Design Patterns 
+Ethics appears to be a concept that solely belongs in topics such as law or philosophy, but ethics exist in software engineering, too. Ethics, in general, are moral principles that help people determine what's right and what's wrong. Ethics are not always black and white, and there are many underlying factors that may contribute to how ethical a person (and their actions) may be. With that being said, it is important for people to carry high moral standards, and be able to differentiate good and bad so the community they live in can be an ethical environment.
+
+In the perspective of software engineering, ethics are moral principles that must be followed by software engineers in how they present themselves and how they create and implement their programming projects. It is important for software engineers, and any type of computer scientist to take ethics seriously, as it could cost them their career if a serious mistake is made. A useful way to determine if the programmer is being ethical with their program, and the program in itself is ethical, is to follow the rules and guidelines on the <a href="https://www.acm.org/code-of-ethics">ACM Code of Ethics and Professional Conduct</a> page. As web applications and mobile applications are used by nearly everyone in the world, it is necessary for software engineers to create and maintain ethical programs. Outside of software engineering, ethics can be applied to any realm or field. As long as the project is done honestly and with integrity, it is considered ethical.
 
 ## The End of the Beginning, the Beginning of the End
 
