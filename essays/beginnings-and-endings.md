@@ -15,7 +15,7 @@ As yet another semester wraps up with finals, sleep deprivation, and a long-awai
 
 ## Flow in Psychology
 
-<img class="ui medium left floated image" src="../images/flow.png">
+<img class="ui medium right floated image" src="../images/flow.png">
 
 In psychology, there is a term for a "flow" state of being, which is also known informally as "being in the zone". In this state, a person is completely immersed in an activity with full focus, involvement, and enjoyment; it is when a person's challenge level and skill level meet at high percentages. In contrast, when a person experiences low percentages in both their challenge level and skill level, they are in a mental state of "apathy". When starting with different classes in computer science, I would always be in a "control" mental state, but soon I fell towards more of the "anxiety" and "worry" mentality. When catching a glimpse of software engineering, I realized I was at a "flow" state of being. The topics were challenging, but I felt with every week, I was steadily becoming more and more skilled, and enjoying it more, too. (Image retrieved <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Challenge_vs_skill.svg/300px-Challenge_vs_skill.svg.png">here</a>.)
 
@@ -23,7 +23,7 @@ In psychology, there is a term for a "flow" state of being, which is also known 
 
 In a marathon, there are different kinds of people, but for the sake of simplicity, two kinds of people are the sprinters and endurance runners. In the grand scheme of things, most people would be endurance runners with high stamina and mental strength not only in a marathon setting, but also in their personal and professional life. However, at least basing off most people I know (which would be my fellow college peers), most people are sprinters in their daily life. One project given a month in advance (so that the student can work on it for a month easily) becomes a rushed assignment in a matter of days with a few all-nighters. Most of this is based upon how difficult it is to divide a large task into smaller ones, and being able to estimate how long each task should take.
 
-<img class="ui medium right floated image" src="../images/project.jpg">
+<img class="ui medium left floated image" src="../images/project.jpg">
 
 This is where Agile Project Managment comes in, where a large task is divided up into smaller manageable tasks assigned to be completed in a given amount of time. This is extremely beneficial for large projects that seemingly appear impossible to start on or finish. An style of Agile Project Management is Issue Driven Project Management, or IDPM for short. In IDPM, a project is divided up into manageable issues with tasks that can be divided into 72-hour increments, a few milestones so the application progresses, each member contributing to a couple of issues, and subsequent meeting times to keep everyone working on the project on the same page. (Image retrieved <a href="https://www.techrepublic.com/a/hub/i/r/2018/03/20/cad44d4d-6707-4703-9eeb-30d539d16a6e/resize/1200x/1be69d3ae9b7c4be604bd2d8058ed960/istock-844535646.jpg">here</a>.)
 
