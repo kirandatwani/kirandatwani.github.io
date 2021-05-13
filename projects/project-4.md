@@ -16,7 +16,7 @@ summary: A year-long research paper I worked on about ikigai and technology duri
 
 ## How It Started
 
-A little 
+A little bit
 
 
 ## Pseudocode & Excel
