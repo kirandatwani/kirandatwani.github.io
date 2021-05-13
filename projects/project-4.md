@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/tech1.jpg
+image: images/example.png
 title: Computational Thinking
 permalink: projects/hci
 # All dates must be YYYY-MM-DD format!
@@ -19,6 +19,6 @@ summary: A year-long research paper I worked on about ikigai and technology duri
 A little 
 
 
-## How It's Going
+## Pseudocode & Excel
 
 This new 
