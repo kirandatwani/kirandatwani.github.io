@@ -31,6 +31,8 @@ In a marathon, there are different kinds of people, but for the sake of simplici
 
 This is where Agile Project Managment comes in, where a large task is divided up into smaller manageable tasks assigned to be completed in a given amount of time. This is extremely beneficial for large projects that seemingly appear impossible to start on or finish. An style of Agile Project Management is Issue Driven Project Management, or IDPM for short. In IDPM, a project is divided up into manageable issues with tasks that can be divided into 72-hour increments, a few milestones so the application progresses, each member contributing to a couple of issues, and subsequent meeting times to keep everyone working on the project on the same page.
 
+Agile Project Management has been invaluable in the sense that it has helped me manage my time better and break up daunting large projects into doable smaller ones. I was (and still am partially) a sprinter, and possibly perform better under pressure during a very short amount of time, but I learn time and time again how damaging that is to my mental health and overall motivation and confidence. Even now, I see the past projects that I could have easily managed if I had divided it up and took the time to complete each part piece by piece. I believe learning this project management style has been benfical for my professional life, as I aspire to venture into project management or product management in the future, and the skills I learned will prove to be extremely helpful. 
+
 ### Ethics in Software Engineering
 
 Design Patterns 
