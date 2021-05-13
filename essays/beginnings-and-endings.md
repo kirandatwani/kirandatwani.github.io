@@ -15,7 +15,9 @@ As yet another semester wraps up with finals, sleep deprivation, and a long-awai
 
 ## Flow in Psychology
 
-In psychology, there is a term for a "flow" state of being, which is also known informally as "being in the zone". In this state, a person is completely immersed in an activity with full focus, involvement, and enjoyment; it is when a person's challenge level and skill level meet at high percentages. In contrast, when a person experiences low percentages in both their challenge level and skill level, they are in a mental state of "apathy". When starting with different classes in computer science, I would always be in a "control" mental state, but soon I fell towards more of the "anxiety" and "worry" mentality. When catching a glimpse of software engineering, I realized I was at a "flow" state of being. The topics were challenging, but I felt with every week, I was steadily becoming more and more skilled, and enjoying it more, too.
+<img class="ui medium right floated image" src="../images/flow.png">
+
+In psychology, there is a term for a "flow" state of being, which is also known informally as "being in the zone". In this state, a person is completely immersed in an activity with full focus, involvement, and enjoyment; it is when a person's challenge level and skill level meet at high percentages. In contrast, when a person experiences low percentages in both their challenge level and skill level, they are in a mental state of "apathy". When starting with different classes in computer science, I would always be in a "control" mental state, but soon I fell towards more of the "anxiety" and "worry" mentality. When catching a glimpse of software engineering, I realized I was at a "flow" state of being. The topics were challenging, but I felt with every week, I was steadily becoming more and more skilled, and enjoying it more, too. (Image retrieved <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Challenge_vs_skill.svg/300px-Challenge_vs_skill.svg.png">here</a>.)
 
 ### Open-Source Software Development
 
@@ -27,9 +29,7 @@ Getting into project management
 
 ### Ethics in Software Engineering
 
-<img class="ui medium right floated image" src="../images/blueprint.jpg">
-
-Design Patterns are essentially the solutions developed from constant series of trials and errors to improve functionality and performance in software. If seen from the standpoint of someone who is not a computer programmer, it might seem like the concept of design patterns is not only applied to software engineering, but also in our lives. Whenever people make mistakes, it is commonly seen as either a bad aspect or it is defined as an invaluable learning opportunity. The concept of "learning from one's mistakes" can be correlated to design patterns. (Image retrieved <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Challenge_vs_skill.svg/300px-Challenge_vs_skill.svg.png">here</a>.)
+Design Patterns 
 
 ## The End of the Beginning, the Beginning of the End
 
