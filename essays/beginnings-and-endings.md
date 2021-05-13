@@ -6,6 +6,9 @@ title: Beginnings, Endings
 date: 2021-05-12
 labels:
   - Software Engineering
+  - Open-Source Software Development
+  - Agile Project Management
+  - Ethics in Software Engineering
 ---
 
 As yet another semester wraps up with finals, sleep deprivation, and a long-awaited summer break, I can say that my hopes in the field of computer science has risen.
@@ -15,7 +18,7 @@ As yet another semester wraps up with finals, sleep deprivation, and a long-awai
 
 Patterns
 
-### Open Source Software Development
+### Open-Source Software Development
 
 Patterns
 
