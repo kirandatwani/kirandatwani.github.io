@@ -29,7 +29,7 @@ Getting into project management
 
 <img class="ui medium right floated image" src="../images/blueprint.jpg">
 
-Design Patterns are essentially the solutions developed from constant series of trials and errors to improve functionality and performance in software. If seen from the standpoint of someone who is not a computer programmer, it might seem like the concept of design patterns is not only applied to software engineering, but also in our lives. Whenever people make mistakes, it is commonly seen as either a bad aspect or it is defined as an invaluable learning opportunity. The concept of "learning from one's mistakes" can be correlated to design patterns. (Image retrieved <a href="https://jhmrad.com/22-inspiring-blueprint-design-photo/architecture-design-blueprint/">here</a>.)
+Design Patterns are essentially the solutions developed from constant series of trials and errors to improve functionality and performance in software. If seen from the standpoint of someone who is not a computer programmer, it might seem like the concept of design patterns is not only applied to software engineering, but also in our lives. Whenever people make mistakes, it is commonly seen as either a bad aspect or it is defined as an invaluable learning opportunity. The concept of "learning from one's mistakes" can be correlated to design patterns. (Image retrieved <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Challenge_vs_skill.svg/300px-Challenge_vs_skill.svg.png">here</a>.)
 
 ## The End of the Beginning, the Beginning of the End
 
