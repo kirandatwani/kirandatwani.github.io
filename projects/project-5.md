@@ -36,10 +36,6 @@ I contributed to the project through various means in front-end design and back-
 
 I started the process by working on the landing page, and creating the navigation bar options for the users and admins. Since the admin had an additional tab contributing to adding a new problem, I had to create a separate admin-protected tab solely for the admins. After completing the navigation bar (which actually underwent several changes over the course of three milestones), I created the original default landing page with three features of the website and the signin and signup options. I implemneted a few additional parts to the signup page, such as Name, Image, and Bio.
 
-<img class="ui medium left floated image" src="../images/page.png">
-
-I embarked on a new journey, but it wasn't easy. I didn't realize what exactly "ikigai" meant to people, much less myself; most of the information was in journals dating several years ago, but for the most part, I hadn't realized how many people in Japan were in the same situation as me. People in schools, colleges, and workplaces all felt that they had to contribute a part of themselves for the betterment for the whole of the community, whether that be in their family or workplace. Better late than never, I realized that the people who were living with "ikigai" weren't trying to, but they would accept their situation and find peace knowing that what is meant to happen will happen.
-
 ## Accomplishments
 
 Originally, I had not realized how crucial databases and a proper understanding of them were necessary for web development, but it was a new concept I picked up during the class.
