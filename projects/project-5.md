@@ -13,10 +13,13 @@ labels:
 summary: A web application made for ICS students at UH Manoa, specifically members of the Programming and Algorithms (PANDA) SIG of ACM Manoa, to assist them in solving problems and storing solutions.
 ---
 
+## Overview
+
 <img class="ui rounded image" src="../images/uhcode2.png">
 
+hshjsnna
 
-## How It Started
+## Development Process
 
 A little more than a year ago, I was conflicted in majoring in computer science. It seemed like all the wishes and dreams I had had for the last three to four years were impossible to accomplish, and the experience of programming and problem-solving that once brought me a sense of comfort and satisfaction were slowly losing their magic touch. What I would spend hours on in the past trying to understand suddenly became too painful and frustrating. What once brought me joy seemed too difficult to continue. I was trying to remember what made me fall in love with technology and programming in the first place.
 
