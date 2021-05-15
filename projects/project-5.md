@@ -15,9 +15,16 @@ summary: A web application made for ICS students at UH Manoa, specifically membe
 
 ## Overview
 
+I learned several concepts and aspects of software engineering in my ICS 314: Software Engineering I class. A month before the end of the semester, students were assigned to complete a working web application in groups of 3-5 people that will serve the UH community in some way. My group was selected to create a web application that will allow UHM students, specifically the ones in computer science, who either want to improve their skills in algorithms or are preparing for technical interviews. An alternate to websites such as LeetCode, UH Code Submissions serves mainly for members of PANDA (Programming and Algorithms) SIG of ACM Manoa as an efficient, comprehensive location to submit and store problems and solutions.
+
 <img class="ui rounded image" src="../images/uhcode.png">
 
-I learned several concepts and aspects of software engineering in my ICS 314: Software Engineering I class. A month before the end of the semester, students were assigned to complete a working web application in groups of 3-5 people that will serve the UH community in some way. My group was selected to create a web application that will allow UHM students, specifically the ones in computer science, who either want to improve their skills in algorithms or are preparing for technical interviews. An alternate to websites such as LeetCode, UH Code Submissions serves mainly for members of PANDA (Programming and Algorithms) SIG of ACM Manoa for providing them an efficient location to store problems and solutions.
+#### This application includes:
+- New Problem Page (admin): a page where only admins can add new problems.
+- Problems Page (admin): a page with published problems by the admin. The admin is able to edit problems on the problems page. Each problem includes a brief overview of the problem and a tag for its category.
+- Problems Page (user): a page with published problems by the admin. A user is able to submit a solution to a selected problem. Similar to the admin's side, each problem includes a brief overview of the problem and a tag for its category.
+- Solutions Page (user): the user is directed here after selecting to submit a solution to a problem.
+- Profile Page (admin and user): admins and users have their own profile page where they are able to write (and edit) a short bio about themselves.
 
 ## Development Process
 
