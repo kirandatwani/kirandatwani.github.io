@@ -30,21 +30,18 @@ I learned several concepts and aspects of software engineering in my ICS 314: So
 
 I contributed to the project through various means in front-end design and back-end development. I helped with the overall UI design and look of the pages, and came up with the idea of having a dark, simple theme for the entire application. I helped contribute to the navigation bar, landing page, add/edit problems portion for admins, creating the problems page, and adding a portion of submitted problems and new problems added to the user and admin pages on the Profile pages respectively. I also led the process for creating, updating, and maintaining our project homepage.
 
-<img class="ui medium left floated image" src="../images/new.png">
+<img class="ui left floated image" src="../images/new.png">
 
-<img class="ui medium left floated image" src="../images/page.png">
+<img class="ui left floated image" src="../images/page.png">
 
 I started the process by working on the landing page, and creating the navigation bar options for the users and admins. Since the admin had an additional tab contributing to adding a new problem, I had to create a separate admin-protected tab solely for the admins. After completing the navigation bar (which actually underwent several changes over the course of three milestones), I created the original default landing page with three features of the website and the signin and signup options. I implemented a few additional parts to the signup page, such as Name, Image, and Bio. After that, I worked mainly on the portions required for the admin, and implemented the Add New Problem page, and Edit Problem page that would only be accessible on the admin side. I had to make sure both matched, and they were able to submit (or update) on the Problems page. The most difficult portion on the overall development for my contribution was creating the Problems page as it was mainly back-end development that I was less confident on. I had to make sure that the problems appeared in the database, that new problems could be added and updated (in the database), and that it was possible to add a new problem from the Add New Problem page to the Problems page.
 
 ## Accomplishments
 
-Originally, I had not realized how crucial databases and a proper understanding of them were necessary for web development, but it was a new concept I picked up during the class.
+Throughout the project, I grew my understanding of Meteor, Semantic UI (with React), JavaScript, MongoDB, the deployment process, and maintaining a clean and organized project homepage. I was able to learn new aspects of front-end design and development using Semantic UI (with React), and start to appreciate the development that takes place more on the back-end side. Originally, I had not realized how crucial databases and a proper understanding of them were necessary for web development, but I was able to get a better grasp of both throughout the project. I believe I also learned several soft skills alongside programming.
 
+Since my team weren't able to meet in-person and regularly, we had to rely on communication through Discord and collaboration through GitHub in order for our project to be successful. I learned how invaluable effective communication and proper planning is when it comes to projects such as this. My group worked on implementing an Agile Project Management approach so that we would be able to complete tasks efficiently. I also learned specifically from this experience that it is important (maybe even necessary) to have a project head or lead when it comes to challenging and intense projects such as this one. I imagine this is what was most impactful for me, because there were times when I felt that with better initiative or direction from one of the members (such as myself), the development of the application would not have been as stressful as it was. This is not something I can do easily, but it is a skill I desire to improve on when I choose to venture into management.
 
-Project managment / product management , ilearned a lot about time management, effectve communication, planning, and collaboation,
-
-Through the process, I learned there was so much more that goes into software development that I was previously unaware of, but that in no means discoaged me, but only helped me grow my passion and interest in software engineering, and especially, web development.
-
-This was a group project completed by the following members: Chad Oshiro, Kanai Gooding, Tristan DeAguiar, and Kiran Datwani (myself). To learn more about this project, please visit our project page or our github repository:
+Through the process, I learned there was so much more that goes into software development that I was previously unaware of, but that in no means discouraged me, but only helped me grow my passion and interest in software engineering, and especially, web development. This was a group project managed by the following members: Chad Oshiro, Kanai Gooding, Tristan DeAguiar, and Kiran Datwani (myself). To learn more about this project, please visit our project page or our github repository:
 
 <a href="https://uh-code-submissions.github.io/"><i class="large github icon"></i>UH Code Submissions Project Page</a> - <a href="https://github.com/uh-code-submissions"><i class="large github icon"></i>UH Code Submissions GitHub Repository</a>
