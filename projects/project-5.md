@@ -28,17 +28,24 @@ I learned several concepts and aspects of software engineering in my ICS 314: So
 
 ## Development Process
 
-A little more than a year ago, I was conflicted in majoring in computer science. It seemed like all the wishes and dreams I had had for the last three to four years were impossible to accomplish, and the experience of programming and problem-solving that once brought me a sense of comfort and satisfaction were slowly losing their magic touch. What I would spend hours on in the past trying to understand suddenly became too painful and frustrating. What once brought me joy seemed too difficult to continue. I was trying to remember what made me fall in love with technology and programming in the first place.
+<img class="ui medium right floated image" src="../images/new.png">
 
-<img class="ui medium left floated image" src="../images/new.png"> <img class="ui medium right floated image" src="../images/page.png">
+I contributed to the project through various means in front-end design and back-end development. I helped with the overall UI design and look of the pages, and came up with the idea of having a dark, simple theme for the entire application. I helped contribute to the navigation bar, landing page, add/edit problems portion for admins, creating the problems page, and adding a portion of submitted problems and new problems added to the user and admin pages on the profile pages respectively. I also led the process for creating, updating, and maintaining our project homepage.
+
+<img class="ui medium left floated image" src="../images/page.png">
+
+I started the process by working on the landing page, and creating the navigation bar options for the users and admins. Since the admin had an additional tab contributing to adding a new problem, I had to create a separate admin-protected tab solely for the admins. After completing the navigation bar (which actually underwent several changes over the course of three milestones), I created the original default landing page with three features of the website and the signin and signup options. I implemneted a few additional parts to the signup page, such as Name, Image, and Bio.
+
+<img class="ui medium left floated image" src="../images/page.png">
 
 I embarked on a new journey, but it wasn't easy. I didn't realize what exactly "ikigai" meant to people, much less myself; most of the information was in journals dating several years ago, but for the most part, I hadn't realized how many people in Japan were in the same situation as me. People in schools, colleges, and workplaces all felt that they had to contribute a part of themselves for the betterment for the whole of the community, whether that be in their family or workplace. Better late than never, I realized that the people who were living with "ikigai" weren't trying to, but they would accept their situation and find peace knowing that what is meant to happen will happen.
 
 ## Accomplishments
 
-While this paper reflected less on my personal thoughts, I was able to convey the message I had learned and observed while studying abroad. Alongside this paper, because I was studying abroad precisely at the time the pandemic began to grow, I worked on a more reflective piece about my experiences studying abroad during a pandemic as an international student.
+Originally, I had not realized how crucial databases and a proper understanding of them were necessary for web development, but it was a new concept I picked up during the class.
 
 
+Project managment / product management , ilearned a lot about time management, effectve communication, planning, and collaboation,
 
 This was a group project completed by the following members: Chad Oshiro, Kanai Gooding, Tristan DeAguiar, and Kiran Datwani (myself). To learn more about this project, please visit our project page or our github repository:
 
