@@ -18,14 +18,16 @@ As a Honors student at the University of Hawaii at Manoa, a part of my degree re
 
 <img class="ui medium right floated image" src="../images/example.png">
 
-My specific aims in this project include: 
+My specific aims in this project include:
+
 1) To understand different peoples’ computational thinking, and the amount of time it takes for a person depending on the level of their computer literacy (e.g., programming novices, computer science majors, general public) to identify, understand, and solve a problem.
+
 2) To identify the level of expertise of participants, and determine different approaches to be taken in order for participants to understand the bigger picture of a program. 
 
-<br>
-
 Alongside my aims, I have made probable research questions as well: 
+
 1) What facets/aspects of cognitive science help researchers in human-computer interaction (HCI) understand how people interact with computers?
+
 2) Are there existing relationships between cognitive science at an individual level in problem-solving and HCI at a group or community level?
 
 ## Abstract
