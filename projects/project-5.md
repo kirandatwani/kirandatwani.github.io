@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/uhcode2.png
+image: images/panda.png
 title: UH Code Submissions
 permalink: projects/uhcodesubmissions
 # All dates must be YYYY-MM-DD format!
@@ -10,15 +10,27 @@ labels:
   - Meteor
   - Semantic UI
   - MongoDB
-summary: A year-long research paper I worked on about ikigai and technology during my experience studying abroad during a pandemic.
+summary: A web application made for ICS students at UH Manoa, specifically members of the Programming and Algorithms (PANDA) SIG of ACM Manoa, to assist them in solving problems and storing solutions.
 ---
+
+<img class="ui rounded image" src="../images/uhcode2.png">
+
 
 ## How It Started
 
-A little 
+A little more than a year ago, I was conflicted in majoring in computer science. It seemed like all the wishes and dreams I had had for the last three to four years were impossible to accomplish, and the experience of programming and problem-solving that once brought me a sense of comfort and satisfaction were slowly losing their magic touch. What I would spend hours on in the past trying to understand suddenly became too painful and frustrating. What once brought me joy seemed too difficult to continue. I was trying to remember what made me fall in love with technology and programming in the first place.
+
+<img class="ui medium left floated image" src="../images/new.png">
+
+Due to my inner conflict, and a bit of sponetousity, I decided to leave Hawaii behind and study abroad in Japan to rekindle the love I once had for technology. During my time as a study abroad student, I took on a research project connecting the information age and technology with a common term in Japan known as "ikigai". A simple word that means a purpose in your life, your reason for being. With little guidance and mentorship, I embarked on a new journey, but it wasn't easy. I didn't realize what exactly "ikigai" meant to people, much less myself; most of the information was in journals dating several years ago, but for the most part, I hadn't realized how many people in Japan were in the same situation as me. People in schools, colleges, and workplaces all felt that they had to contribute a part of themselves for the betterment for the whole of the community, whether that be in their family or workplace. Better late than never, I realized that the people who were living with "ikigai" weren't trying to, but they would accept their situation and find peace knowing that what is meant to happen will happen.
+
+<img class="ui medium right floated image" src="../images/page.png">
 
 
-## How It's Going
+## Accomplishments
 
-This new 
+While this paper reflected less on my personal thoughts, I was able to convey the message I had learned and observed while studying abroad. Alongside this paper, because I was studying abroad precisely at the time the pandemic began to grow, I worked on a more reflective piece about my experiences studying abroad during a pandemic as an international student.
 
+Right now, I am working on getting the two papers published in different journals. With the help from my advisor, I hope to publish my COVID-19 reflection paper where international students who desire to study abroad can have a look at how the pandemic affected my studies and overall lifestyle in a foreign country. As for my Ikigai and Technology paper, after a few more trials of editing, there might be a shot at publishing it in the Horizons journal at UH Manoa.
+
+To catch a glimpse of the current drafts, you can read about the ikigai and technology portion <a href="https://drive.google.com/file/d/18q4KWl32j9THvd6-QfXcgNoy--MmY6cV/view?usp=sharing">here</a>, and the COVID-19 portion <a href="https://drive.google.com/file/d/1NeOtHU9U1fLuxoDpJZffLoKrn6HWgCE7/view?usp=sharing">here</a>.
