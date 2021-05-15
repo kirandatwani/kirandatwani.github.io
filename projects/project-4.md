@@ -14,7 +14,7 @@ labels:
 summary: The development of my final Honors Senior Project. My research is conducted on human-computer interaction (HCI), and will be focusing on computational thinking. 
 ---
 
-As a honors student at the University of Hawaii at Manoa, a part of my degree requirement is completing research in my field, and writing a thesis. I am currently developing my research on human-computer interaction while focusing on computational thinking. The title of my project is "Understanding Humans’ Cognitive Processes During Computational Thinking Through Cognitive Science".
+As a Honors student at the University of Hawaii at Manoa, a part of my degree requirement is completing research in my field, and writing a thesis. I am currently developing my research on human-computer interaction while focusing on computational thinking. The title of my project is "Understanding Humans’ Cognitive Processes During Computational Thinking Through Cognitive Science".
 
 <img class="ui medium left floated image" src="../images/example.png">
 
