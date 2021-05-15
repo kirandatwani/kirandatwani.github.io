@@ -30,11 +30,11 @@ I learned several concepts and aspects of software engineering in my ICS 314: So
 
 <img class="ui medium right floated image" src="../images/new.png">
 
-I contributed to the project through various means in front-end design and back-end development. I helped with the overall UI design and look of the pages, and came up with the idea of having a dark, simple theme for the entire application. I helped contribute to the navigation bar, landing page, add/edit problems portion for admins, creating the problems page, and adding a portion of submitted problems and new problems added to the user and admin pages on the profile pages respectively. I also led the process for creating, updating, and maintaining our project homepage.
+I contributed to the project through various means in front-end design and back-end development. I helped with the overall UI design and look of the pages, and came up with the idea of having a dark, simple theme for the entire application. I helped contribute to the navigation bar, landing page, add/edit problems portion for admins, creating the problems page, and adding a portion of submitted problems and new problems added to the user and admin pages on the Profile pages respectively. I also led the process for creating, updating, and maintaining our project homepage.
 
 <img class="ui medium left floated image" src="../images/page.png">
 
-I started the process by working on the landing page, and creating the navigation bar options for the users and admins. Since the admin had an additional tab contributing to adding a new problem, I had to create a separate admin-protected tab solely for the admins. After completing the navigation bar (which actually underwent several changes over the course of three milestones), I created the original default landing page with three features of the website and the signin and signup options. I implemneted a few additional parts to the signup page, such as Name, Image, and Bio.
+I started the process by working on the landing page, and creating the navigation bar options for the users and admins. Since the admin had an additional tab contributing to adding a new problem, I had to create a separate admin-protected tab solely for the admins. After completing the navigation bar (which actually underwent several changes over the course of three milestones), I created the original default landing page with three features of the website and the signin and signup options. I implemented a few additional parts to the signup page, such as Name, Image, and Bio. After that, I worked mainly on the portions required for the admin, and implemented the Add New Problem page, and Edit Problem page that would only be accessible on the admin side. I had to make sure both matched, and they were able to submit (or update) on the Problems page. The most difficult portion on the overall development for my contribution was creating the Problems page as it was mainly back-end development that I was less confident on. I had to make sure that the problems appeared in the database, that new problems could be added and updated (in the database), and that it was possible to add a new problem from the Add New Problem page to the Problems page.
 
 ## Accomplishments
 
@@ -42,6 +42,8 @@ Originally, I had not realized how crucial databases and a proper understanding 
 
 
 Project managment / product management , ilearned a lot about time management, effectve communication, planning, and collaboation,
+
+Through the process, I learned there was so much more that goes into software development that I was previously unaware of, but that in no means discoaged me, but only helped me grow my passion and interest in software engineering, and especially, web development.
 
 This was a group project completed by the following members: Chad Oshiro, Kanai Gooding, Tristan DeAguiar, and Kiran Datwani (myself). To learn more about this project, please visit our project page or our github repository:
 
