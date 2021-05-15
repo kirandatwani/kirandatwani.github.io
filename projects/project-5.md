@@ -15,9 +15,9 @@ summary: A web application made for ICS students at UH Manoa, specifically membe
 
 ## Overview
 
-<img class="ui rounded image" src="../images/uhcode2.png">
+<img class="ui rounded image" src="../images/uhcode.png">
 
-hshjsnna
+I learned several concepts and aspects of software engineering in my ICS 314: Software Engineering I class. A month before the end of the semester, students were assigned to complete a working web application in groups of 3-5 people that will serve the UH community in some way. My group was selected to create a web application that will allow UHM students, specifically the ones in computer science, who either want to improve their skills in algorithms or are preparing for technical interviews. An alternate to websites such as LeetCode, UH Code Submissions serves mainly for members of PANDA (Programming and Algorithms) SIG of ACM Manoa for providing them an efficient location to store problems and solutions.
 
 ## Development Process
 
@@ -33,7 +33,5 @@ Due to my inner conflict, and a bit of sponetousity, I decided to leave Hawaii b
 ## Accomplishments
 
 While this paper reflected less on my personal thoughts, I was able to convey the message I had learned and observed while studying abroad. Alongside this paper, because I was studying abroad precisely at the time the pandemic began to grow, I worked on a more reflective piece about my experiences studying abroad during a pandemic as an international student.
-
-Right now, I am working on getting the two papers published in different journals. With the help from my advisor, I hope to publish my COVID-19 reflection paper where international students who desire to study abroad can have a look at how the pandemic affected my studies and overall lifestyle in a foreign country. As for my Ikigai and Technology paper, after a few more trials of editing, there might be a shot at publishing it in the Horizons journal at UH Manoa.
 
 To catch a glimpse of the current drafts, you can read about the ikigai and technology portion <a href="https://drive.google.com/file/d/18q4KWl32j9THvd6-QfXcgNoy--MmY6cV/view?usp=sharing">here</a>, and the COVID-19 portion <a href="https://drive.google.com/file/d/1NeOtHU9U1fLuxoDpJZffLoKrn6HWgCE7/view?usp=sharing">here</a>.
