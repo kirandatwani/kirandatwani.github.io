@@ -42,4 +42,4 @@ While this paper reflected less on my personal thoughts, I was able to convey th
 
 This was a group project completed by the following members: Chad Oshiro, Kanai Gooding, Tristan DeAguiar, and Kiran Datwani (myself). To learn more about this project, please visit our project page or our github repository:
 
-<a href="https://uh-code-submissions.github.io/"><i class="large github icon"></i>UH Code Submissions Project Page</a> OR <a href="https://github.com/uh-code-submissions"><i class="large github icon"></i>UH Code Submissions GitHub Repository</a>
+<a href="https://uh-code-submissions.github.io/"><i class="large github icon"></i>UH Code Submissions Project Page</a> - <a href="https://github.com/uh-code-submissions"><i class="large github icon"></i>UH Code Submissions GitHub Repository</a>
