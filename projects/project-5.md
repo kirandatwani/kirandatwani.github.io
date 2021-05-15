@@ -42,7 +42,8 @@ I embarked on a new journey, but it wasn't easy. I didn't realize what exactly "
 
 While this paper reflected less on my personal thoughts, I was able to convey the message I had learned and observed while studying abroad. Alongside this paper, because I was studying abroad precisely at the time the pandemic began to grow, I worked on a more reflective piece about my experiences studying abroad during a pandemic as an international student.
 
-To catch a glimpse of the current drafts, you can read about the ikigai and technology portion <a href="https://drive.google.com/file/d/18q4KWl32j9THvd6-QfXcgNoy--MmY6cV/view?usp=sharing">here</a>, and the COVID-19 portion <a href="https://drive.google.com/file/d/1NeOtHU9U1fLuxoDpJZffLoKrn6HWgCE7/view?usp=sharing">here</a>.
+
 
 This was a group project completed by the following members: Chad Oshiro, Kanai Gooding, Tristan DeAguiar, and Kiran Datwani (myself). To learn more about this project, please visit our project page or our github repository:
+
 <a href="https://uh-code-submissions.github.io/"><i class="large github icon"></i>UH Code Submissions Project Page</a> OR <a href="https://github.com/uh-code-submissions"><i class="large github icon"></i>UH Code Submissions GitHub Repository</a>
