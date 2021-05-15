@@ -30,9 +30,7 @@ I learned several concepts and aspects of software engineering in my ICS 314: So
 
 A little more than a year ago, I was conflicted in majoring in computer science. It seemed like all the wishes and dreams I had had for the last three to four years were impossible to accomplish, and the experience of programming and problem-solving that once brought me a sense of comfort and satisfaction were slowly losing their magic touch. What I would spend hours on in the past trying to understand suddenly became too painful and frustrating. What once brought me joy seemed too difficult to continue. I was trying to remember what made me fall in love with technology and programming in the first place.
 
-<img class="ui medium left floated image" src="../images/new.png">
-
-<img class="ui medium right floated image" src="../images/page.png">
+<img class="ui medium left floated image" src="../images/new.png"> <img class="ui medium right floated image" src="../images/page.png">
 
 I embarked on a new journey, but it wasn't easy. I didn't realize what exactly "ikigai" meant to people, much less myself; most of the information was in journals dating several years ago, but for the most part, I hadn't realized how many people in Japan were in the same situation as me. People in schools, colleges, and workplaces all felt that they had to contribute a part of themselves for the betterment for the whole of the community, whether that be in their family or workplace. Better late than never, I realized that the people who were living with "ikigai" weren't trying to, but they would accept their situation and find peace knowing that what is meant to happen will happen.
 
