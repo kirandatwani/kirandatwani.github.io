@@ -28,9 +28,9 @@ I learned several concepts and aspects of software engineering in my ICS 314: So
 
 ## Development Process
 
-<img class="ui medium right floated image" src="../images/new.png">
-
 I contributed to the project through various means in front-end design and back-end development. I helped with the overall UI design and look of the pages, and came up with the idea of having a dark, simple theme for the entire application. I helped contribute to the navigation bar, landing page, add/edit problems portion for admins, creating the problems page, and adding a portion of submitted problems and new problems added to the user and admin pages on the Profile pages respectively. I also led the process for creating, updating, and maintaining our project homepage.
+
+<img class="ui medium left floated image" src="../images/new.png">
 
 <img class="ui medium left floated image" src="../images/page.png">
 
