@@ -21,9 +21,9 @@ A little more than a year ago, I was conflicted in majoring in computer science.
 
 Due to my inner conflict, and a bit of sponetousity, I decided to leave Hawaii behind and study abroad in Japan to rekindle the love I once had for technology. During my time as a study abroad student, I took on a research project connecting the information age and technology with a common term in Japan known as "ikigai". A simple word that means a purpose in your life, your reason for being. With little guidance and mentorship, I embarked on a new journey, but it wasn't easy. I didn't realize what exactly "ikigai" meant to people, much less myself; most of the information was in journals dating several years ago, but for the most part, I hadn't realized how many people in Japan were in the same situation as me. People in schools, colleges, and workplaces all felt that they had to contribute a part of themselves for the betterment for the whole of the community, whether that be in their family or workplace. Better late than never, I realized that the people who were living with "ikigai" weren't trying to, but they would accept their situation and find peace knowing that what is meant to happen will happen.
 
-<img class="ui medium left floated image" src="{{ site.baseurl }}/images/tech2.jpg">
-
 ## How It's Going
+
+<img class="ui medium right floated image" src="{{ site.baseurl }}/images/tech2.jpg">
 
 This new mindset helped me start seeing myself and my goals in a new light. I was able to tie into my search for ikigai with the passion I had for computer science, programming, and technology. I took note how several people were able to turn their passion into products, and I was able to observe in events and sites such as <a href="https://www.teamlab.art/">teamLab</a> and <a href="https://kc-i.jp/tw/">Knowledge Capital</a>.
 
